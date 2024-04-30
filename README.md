@@ -13,15 +13,15 @@ To install ant-design-table-task, follow these steps:
 
 ```bash, or open command prompt or in vs code terminal```
 ``` VS CODE TERMINAL IS PREFERRED TO USE```
-git clone https://github.com/mr-kbRKD/ant-design-table-task.git
-cd ant-design-table-task
+* git clone https://github.com/mr-kbRKD/ant-design-table-task.git
+* cd ant-design-table-task
 
 
 ## Running the Project
 To run ant-design-table-task follow these steps:
 
-npm install
-npm start
+* npm install
+* npm start
 
 
 This will start the development server and open the application in your default web browser at http://localhost:3000
